@@ -1,5 +1,7 @@
 # Deep Learning // Tensorflow
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tbsv/DL_tensorflow/master?filepath=tensorflow_solution.ipynb)
+
 ## Data Science / Deep Learning example
 This is Binder-compatible repo with a `requirements.txt` file.
 
